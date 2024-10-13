@@ -30,6 +30,12 @@ I'm a **Full Stack Developer** and **Application Security Specialist** passionat
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
+- **Browser Extensions:**
+  - ![Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=flat&logo=google-chrome&logoColor=white)
+  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=firefox-browser&logoColor=white)
+  ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=flat&logo=microsoft-edge&logoColor=white)
+
+
 - **Scripting:**
   - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell_Scripting-5391FE?style=flat&logo=gnu-bash&logoColor=white)
